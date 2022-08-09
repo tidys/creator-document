@@ -1,4 +1,4 @@
-![./doc/preview.jpg]
+![](./doc/preview.jpg)
 
 ## 5个窗口
 - Creator/3.5.2/resources/app.asar/node_modules/@base/electron-worker/static/worker.html'
