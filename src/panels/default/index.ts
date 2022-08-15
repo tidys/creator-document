@@ -55,6 +55,7 @@ module.exports = Editor.Panel.define({
       this.$.app.innerHTML = "Hello Cocos.";
       const ttfPath = join(Editor.Project.path, "assets/font1.ttf");
       this._loadFont("test", ttfPath);
+      this.$.app.style.fontFamily='test';
     }
   },
   beforeClose() {},
